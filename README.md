@@ -1,4 +1,4 @@
-# Table of Contents (List of my repos) 
+# List of my repos  
 
 ## POS 1st grade 
 

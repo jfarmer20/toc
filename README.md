@@ -40,6 +40,16 @@
 
 [Spring MVC Form Tag](https://github.com/jfarmer20/spring-mvc-form-tag)  
 
+https://github.com/jfarmer20/spring-security-demo-01-basic-app  
+https://github.com/jfarmer20/spring-security-demo-02-basic-security  
+https://github.com/jfarmer20/spring-security-demo-03-custom-login-form  
+https://github.com/jfarmer20/spring-security-demo-04-bootstrap-login-form  
+https://github.com/jfarmer20/spring-security-demo-05-logout  
+https://github.com/jfarmer20/spring-security-demo-06-csrf  
+https://github.com/jfarmer20/spring-security-demo-07-user-roles  
+https://github.com/jfarmer20/spring-security-demo-08-jdbc-plaintext  
+https://github.com/jfarmer20/spring-security-demo-09-jdbc-bcrypt  
+
 [Spring MVC Hibernate Form Validator](https://github.com/jfarmer20/spring-mvc-form-hibernate-validator)
 
 [Aspect Orientated Programming AOP Demo](https://github.com/jfarmer20/spring-demo-aop)

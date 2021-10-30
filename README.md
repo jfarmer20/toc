@@ -2,13 +2,35 @@
 
 ## POS 1st grade 
 
+[C Theorie Skriptum](https://github.com/jfarmer20/1POS_C_Theorie)  
+
+[Q1 Examples](https://github.com/jfarmer20/1POS_Q1) 
+
+[Q2 Examples](https://github.com/jfarmer20/1POS_Q2)
+
+[Q3 Examples](https://github.com/jfarmer20/1POS_Q3)  
+
+[Project Euler Solutions])(https://github.com/jfarmer20/project_euler)  
+
+[WU Examples](https://github.com/jfarmer20/1POS_WU)  
+
 ## POS 2nd grade
 
 ## POS 3rd grade
 
+[Q1 Android Examples](https://github.com/jfarmer20/apps_q1)  
+
 ## POS 4th grade
 
 ## POS 5th grade
+
+[Spring Jackson-databinding, REST exception handling:](https://github.com/jfarmer20/demo_spring_rest)
+
+- jackson-databinding-json-demo
+- spring-rest-demo
+- spring-rest-student
+- spring-rest-student_exception_handling
+- spring-rest-student_global_exception_handling_with_AOP
 
 [Spring Boot Demo 01 - Introduction: Initializr, Project Structure, Starters](https://github.com/jfarmer20/springbootdemo)
 

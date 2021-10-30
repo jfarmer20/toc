@@ -10,11 +10,15 @@
 
 ## POS 5th grade
 
-[Spring Boot REST CRUD Demo with three ways of accessing data](https://github.com/jfarmer20/springbootdemo03)
+[Spring Boot Demo 01 - Introduction: Initializr, Project Structure, Starters](https://github.com/jfarmer20/springbootdemo)
+
+[Spring Boot Demo 02 - DevTools, Actuator, Properties](https://github.com/jfarmer20/springbootdemo02)  
+
+[Spring Boot Demo 03 - REST CRUD API with three ways of accessing data:](https://github.com/jfarmer20/springbootdemo03)  
 - Version 1: EntityManager but leveraging native Hibernate API
 - Version 2: EntityManager and standard JPA API (with JPQL)
 - Version 3: Spring Data JPA 
 
-[Spring Boot Data REST Demo](https://github.com/jfarmer20/datarestdemo)  
+[Spring Boot Demo 04 - Spring Data REST](https://github.com/jfarmer20/datarestdemo)  
 
 

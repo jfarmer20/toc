@@ -22,7 +22,9 @@
 
 [Q1 Android Examples](https://github.com/jfarmer20/apps_q1)  
 
-[Advanced Graphics and View - Simple Canvas Example](https://github.com/jfarmer20/SimpleCanvas)
+[Advanced Graphics and View - Simple Canvas Example](https://github.com/jfarmer20/SimpleCanvas)  
+
+[Advanced Graphics and View - Canvas Example](https://github.com/jfarmer20/CanvasExample)  
 
 ## POS 4th grade
 

@@ -23,8 +23,8 @@
 [Q1 Android Examples](https://github.com/jfarmer20/apps_q1)  
 
 [Advanced Graphics and View - Simple Canvas Example](https://github.com/jfarmer20/SimpleCanvas)  
-
 [Advanced Graphics and View - Canvas Example](https://github.com/jfarmer20/CanvasExample)  
+[Advanced Graphics and View - Apply clipping to Canvas objects](https://github.com/jfarmer20/ClippingExample)
 
 ## POS 4th grade
 

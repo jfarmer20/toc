@@ -23,10 +23,10 @@
 [Q1 Android Examples](https://github.com/jfarmer20/apps_q1)  
 
 ### Unit 5: Advanced graphics and views - Lesson 11: Canvas  
-[11.1 Part A: Create Canvas objects - Simple Canvas Example](https://github.com/jfarmer20/SimpleCanvas)  
-[11.1 Part B: Draw on Canvas objects - Canvas Example](https://github.com/jfarmer20/CanvasExample)  
-[11.1 Part C: Apply clipping to Canvas objects - Apply clipping to Canvas objects](https://github.com/jfarmer20/ClippingExample)  
-[11.2: SurfaceView objects - SurfaceView objects](https://github.com/jfarmer20/SurfaceViewExample)  
+[11.1 Part A: Create Canvas objects - SimpleCanvas Example](https://github.com/jfarmer20/SimpleCanvas)  
+[11.1 Part B: Draw on Canvas objects - CanvasExample](https://github.com/jfarmer20/CanvasExample)  
+[11.1 Part C: Apply clipping to Canvas objects - ClippingExample](https://github.com/jfarmer20/ClippingExample)  
+[11.2: SurfaceView objects - SurfaceViewExample](https://github.com/jfarmer20/SurfaceViewExample)  
 
 ## POS 4th grade
 

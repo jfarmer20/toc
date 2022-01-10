@@ -23,7 +23,7 @@
 [Q1 Android Examples](https://github.com/jfarmer20/apps_q1)  
 
 ### Unit 1: Expand the user experience  
-[Fragment Example 1](https://github.com/jfarmer20/FragmentExample1)
+[Fragment Example 1](https://github.com/jfarmer20/FragmentExample1)  
 [Fragment Example 2](https://github.com/jfarmer20/FragmentExample2)  
 
 ### Unit 5: Advanced graphics and views - Lesson 11: Canvas  

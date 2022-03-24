@@ -22,6 +22,8 @@
 
 [Q1 Android Examples](https://github.com/jfarmer20/apps_q1)  
 
+[Java Concurrency - Callable/Future, Project Euler Problem Set 39](https://github.com/jfarmer20/pos3_ProjectEuler39)  
+
 ### Unit 1: Expand the user experience  
 [Fragment Example 1](https://github.com/jfarmer20/FragmentExample1)  
 [Fragment Example 2](https://github.com/jfarmer20/FragmentExample2)  

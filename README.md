@@ -10,9 +10,9 @@
 
 [Q3 Examples](https://github.com/jfarmer20/1POS_Q3)  
 
-[Project Euler Solutions](https://github.com/jfarmer20/project_euler)  
+[Q4 Examples](https://github.com/jfarmer20/1POS_WU) 
 
-[WU Examples](https://github.com/jfarmer20/1POS_WU)  
+[Project Euler Solutions](https://github.com/jfarmer20/project_euler)  
 
 ## POS 2nd grade
 
